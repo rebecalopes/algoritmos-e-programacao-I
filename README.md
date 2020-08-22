@@ -4,7 +4,7 @@ Usando como literatura base
 
 >Introdução à computação usando Python : um foco no desenvolvimento de aplicações
 >Ljubomir Perkovic ; tradução Daniel Vieira. - 1. ed. 
->- Rio de Janeiro : LTC, 2016. il. ; 28 cm
+>Rio de Janeiro : LTC, 2016. il. ; 28 cm
 
 ### Semana 2
 
@@ -14,11 +14,11 @@ Usando como literatura base
   
     **Capitulo 2: Tipos de Dados Python**
     pag. 48 
-   > Exercício 2.1
-   > Exercício 2.2
-   > Exercício 2.3
-   > Exercício 2.4
-   > Exercício 2.5
+   * Exercício 2.1
+   * Exercício 2.2
+   * Exercício 2.3
+   * Exercício 2.4
+   * Exercício 2.5
    
 ### Semana 3 
 
@@ -29,10 +29,10 @@ Usando como literatura base
 
    **Capitulo 2: Tipos de Dados Python**
     pag. 48 
-   > Exercício 2.6
-   > Exercício 2.7
-   > Exercício 2.8
-   > Exercício 2.9
-   > Exercício 2.10
+   * Exercício 2.6
+   * Exercício 2.7
+   * Exercício 2.8
+   * Exercício 2.9
+   * Exercício 2.10
 
 
