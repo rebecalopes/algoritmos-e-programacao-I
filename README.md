@@ -1,6 +1,6 @@
 # Algoritmos e Programação de Computadores I  
 
-Exercícios em python referente a disciplina de Algoritmos e Programação de Computadores I da Univesp (2020) ministrada pelo Prof. Dr. Marcelo Garcia Manzato.
+Exercícios em python referente a disciplina de Algoritmos e Programação de Computadores I da Univesp (2020) ministrada pelo Prof. Dr. Marcelo Garcia Manzato.  
 Usando como literatura base  
 
 >Introdução à computação usando Python : um foco no desenvolvimento de aplicações  
