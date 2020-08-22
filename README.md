@@ -12,13 +12,13 @@ Usando como literatura base
   - compreender o que são variáveis e como usá-las;
   - saber o que são strings e como usá-las.
   
-    **Capitulo 2: Tipos de Dados Python**
-    pag. 48 
-   * Exercício 2.1
-   * Exercício 2.2
-   * Exercício 2.3
-   * Exercício 2.4
-   * Exercício 2.5
+           **Capitulo 2: Tipos de Dados Python**
+              pag. 48 
+            * Exercício 2.1
+            * Exercício 2.2
+            * Exercício 2.3
+            * Exercício 2.4
+            * Exercício 2.5
    
 ### Semana 3 
 
