@@ -12,13 +12,13 @@ Usando como literatura base
   - compreender o que são variáveis e como usá-las;
   - saber o que são strings e como usá-las.
   
-       **Capitulo 2: Tipos de Dados Python**
-         pag. 48 
-          * Exercício 2.1
-          * Exercício 2.2
-          * Exercício 2.3
-          * Exercício 2.4
-          * Exercício 2.5
+       **Capitulo 2: Tipos de Dados Python**  
+         pag. 48  
+          * Exercício 2.1  
+          * Exercício 2.2  
+          * Exercício 2.3  
+          * Exercício 2.4  
+          * Exercício 2.5  
    
 ### Semana 3 
 
@@ -27,12 +27,12 @@ Usando como literatura base
   - compreender o conceito de tipos de dados em Python, e como usá-los;
   - familiarizar-se com a biblioteca padrão Python.
 
-       **Capitulo 2: Tipos de Dados Python**
-         pag. 48 
-          * Exercício 2.6
-          * Exercício 2.7
-          * Exercício 2.8
-          * Exercício 2.9
-          * Exercício 2.10
+       **Capitulo 2: Tipos de Dados Python**  
+         pag. 48  
+          * Exercício 2.6  
+          * Exercício 2.7  
+          * Exercício 2.8  
+          * Exercício 2.9  
+          * Exercício 2.10  
 
 
