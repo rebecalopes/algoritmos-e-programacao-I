@@ -18,7 +18,7 @@ expre3 = s1 + ' ' + (s2 + ' ' * 2) + (s3 + ' ' * 3)
 print(expre3)
 
 #'ant bat ant bat ant bat ant bat ant bat ant bat ant bat'
-expre4 = s1 + ' ' + s2 + ' ' + s1 + ' ' + s2 + ' ' + s1 + ' ' + s2 + ' ' + s1 + ' ' + s2 + ' ' + s1 + ' ' + s2 + ' ' + s1 + ' ' + s2 + ' ' + s1 + ' ' + s2
+expre4 = (s1 + ' ' + s2 + ' ') * 7 
 print(expre4)
 
 #'batbatcod batbatcod batbatcod batbatcod batbatcod'
