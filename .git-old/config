@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "master"]
+[remote "rebecalopes"]
+	url = https://github.com/rebecalopes/algoritmos-e-programacao-I.git
+	fetch = +refs/heads/*:refs/remotes/rebecalopes/*
+[http]
+	postBuffer = 524288000
+[remote "origin"]
+	url = https://github.com/rebecalopes/algoritmos-e-programacao-I.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
