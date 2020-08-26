@@ -35,5 +35,19 @@ Usando como literatura base
           * Exercício 2.8  
           * Exercício 2.9  
           * Exercício 2.10  
+          
+### Semana 4
+
+  - desenvolver programas em Python, usando conceitos de algoritmos, variáveis, expressões aritméticas e lógicas;
+  - compreender como fornecer dados de entrada para um programa;
+  - entender como gerar uma saída do programa para o usuário;
+  - aprender a definir funções próprias e documentar programas.
+
+Usado a literatura base
+ > Banin, Sérgio Luiz Python 3 : conceitos e aplicações : uma abordagem didática  
+ > Sérgio Luiz Banin. --São Paulo : Érica, 2018. 
+ 
+ Cap. 2 Objetos e Comandos de Entrada e Saída em Python  
+ Exercicios propostos, pag 47
 
 
