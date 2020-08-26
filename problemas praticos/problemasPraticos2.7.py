@@ -7,8 +7,7 @@ notas.count(7)
 notas.append(4)
 
 #expressao que avalia para a nota mais alta.
-notas.sort()
-notas[-1]
+max.(notas)
 
 #instruçao que classifica as notas da lista.
 notas.sort()
