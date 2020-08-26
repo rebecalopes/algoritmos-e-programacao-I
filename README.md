@@ -44,10 +44,10 @@ Usando como literatura base
   - aprender a definir funções próprias e documentar programas.
 
 Usado a literatura base
- > Banin, Sérgio Luiz Python 3 : conceitos e aplicações : uma abordagem didática 
+ > Banin, Sérgio Luiz Python 3 : conceitos e aplicações : uma abordagem didática  
  > Sérgio Luiz Banin. --São Paulo : Érica, 2018. 
  
- Cap. 2 Objetos e Comandos de Entrada e Saída em Python 
+ Cap. 2 Objetos e Comandos de Entrada e Saída em Python  
  Exercicios propostos, pag 47
 
 
